@@ -1,0 +1,43 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+#head{
+    background-image: url("images/pattern.webp");
+    color: khaki;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+.mini-heads {
+   
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+    margin-top: 5%;
+}
+
+#frames{
+    background-color: lightcoral;
+    margin-top: 2%;
+}
+
+#paints{
+    background-color: skyblue;
+    margin-top: 2%;
+}
+
+img{
+    margin-top: 1.5%;
+}
+
+span{
+    color:blue;
+    font-weight: bold;
+}
